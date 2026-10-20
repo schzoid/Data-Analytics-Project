@@ -10,6 +10,22 @@ The objective is to analyze production performance, identify quality issues, and
 
 The project uses synthetic manufacturing data generated with Python.
 
+## Dashboards
+
+### 1. Production Overview
+
+This dashboard displays production performance across
+manufacturing lines, shifts, and products.
+
+![Production Overview](screenshots/production_overview.png)
+
+### 2. Data Quality Analysis
+
+This dashboard shows missing values, duplicate records,
+invalid data, and the results of Python data cleaning.
+
+![Data Quality Analysis](screenshots/data_quality_analysis.png)
+
 ## Technologies Used
 
 - **Python (pandas):** Data generation, cleaning, validation, and database integration.
